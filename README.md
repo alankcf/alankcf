@@ -1,6 +1,6 @@
 # Welcome 👋, I'm Alan!
 
-<img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> [LinkedIn Profile](https://www.linkedin.com/in/alankcf/)
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"> [LinkedIn Profile](https://www.linkedin.com/in/alankcf/)
 
 ## About Me
 
