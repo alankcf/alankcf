@@ -1,10 +1,8 @@
 # Welcome 👋, I'm Alan!
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"> [LinkedIn Profile](https://www.linkedin.com/in/alankcf/)
-
 ## About Me
 
-I am an Engineering Student at the University of British Columbia at Vancouver, BC! I would love for you to explore some of the things I've been up to, see what I've uploaded here, or reach out.
+I am an Engineering Student at the University of British Columbia at Vancouver, BC! I would love for you to explore some of the things I've been up to, see what I've uploaded here, or reach out. If your interest, check out my [LinkedIn Profile!](https://www.linkedin.com/in/alankcf/)
 
 <!--
 **alankcf/alankcf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
