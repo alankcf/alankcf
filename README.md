@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello, people of the Internet! I am an Engineering Student at the University of British Columbia at Vancouver, BC! Feel free to take a look on some of the things I've been up to here. Thanks for visiting, and feel free to connect with me at my [LinkedIn Profile!](https://www.linkedin.com/in/alankcf/)
+Hello, people of the Internet to my GitHub profile! A few facts about myself - I'm an engineering student at the University of British Columbia and am proud to call Vancouver home. Feel free to take a look on some of the things I've been up to here. Thanks for visiting, and let's connect [here!](https://www.linkedin.com/in/alankcf/)
 
 <!--
 **alankcf/alankcf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
